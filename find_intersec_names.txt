@@ -1,0 +1,193 @@
+('Thalamus geniculate nucleus/lateral principal GLU cell', 'Thalamus reticular nucleus GABA cell') : 0.754331118926664
+('I Na,t', 'I Krp') : 0.5599564562049908
+('I Na,t', 'I R') : 0.5449188622200283
+('I Na,t', 'Neocortex layer 4 pyramidal cell') : 0.5176284138769485
+('I T low threshold', 'Thalamus geniculate nucleus/lateral principal GLU cell') : 0.5251465416178195
+('I T low threshold', 'I L high threshold') : 0.5329243193955973
+('I T low threshold', 'Thalamus reticular nucleus GABA cell') : 0.5788502453215232
+('I T low threshold', 'I A, slow') : 0.5001465416178195
+('I T low threshold', 'I R') : 0.5067254889862405
+('I T low threshold', 'Neocortex layer 4 pyramidal cell') : 0.6529243193955973
+('I T low threshold', 'Allen Institute (2015)') : 0.8751465416178195
+('I T low threshold', 'Neocortex layer 5 interneuron') : 0.6024192688905468
+('I K', 'I Na,t') : 0.5215841062175267
+('I K', 'Nav1.6 SCN8A') : 0.5148216379165969
+('I K', 'Allen Institute (2015)') : 0.6576787807737398
+('Neuron or other electrically excitable cell', 'Realistic Network') : -0.2826693159476445
+('Neuron or other electrically excitable cell', 'Thalamus') : -0.21664023170815805
+('Neuron or other electrically excitable cell', 'Na/Ca exchanger') : 0.5063989839781164
+('Neuron or other electrically excitable cell', 'Long-term Synaptic Plasticity') : -0.20193434935521687
+('Neuron or other electrically excitable cell', 'Abstract integrate-and-fire leaky neuron') : -0.2280537523402915
+('Neuron or other electrically excitable cell', 'Allen Institute (2015)') : 0.5480656506447832
+('Ion Channel Kinetics', 'Channel/Receptor') : 0.5260895497830156
+('Ion Channel Kinetics', 'Heart disease') : 0.8032825322391559
+('Ion Channel Kinetics', 'Markov-type model') : 0.6532825322391559
+('Parameter Fitting', 'Neocortex layer 4 pyramidal cell') : 0.6027745212973817
+('Parameter Fitting', 'Allen Institute (2015)') : 0.9361078546307151
+('Calcium dynamics', 'IP3') : 0.6892145369284878
+('Calcium dynamics', 'Neocortex layer 4 pyramidal cell') : 0.5558812035951544
+('Calcium dynamics', 'Allen Institute (2015)') : 0.8892145369284877
+('Calcium dynamics', 'Neocortex layer 5 interneuron') : 0.5710327187466695
+('NEURON', 'Migliore, Michele [Michele.Migliore at Yale.edu]') : 0.5657394578848272
+('NEURON', 'Carnevale, Ted [Ted.Carnevale at Yale.edu]') : 0.5808909730363423
+('NEURON', 'Hines, Michael [Michael.Hines at Yale.edu]') : 0.5808909730363423
+('NEURON', 'Lytton, William [bill.lytton at downstate.edu]') : 0.5808909730363423
+('NEURON', 'MATLAB') : -0.2973698965288751
+('NEURON', 'Morse, Tom [Tom.Morse at Yale.edu]') : 0.5808909730363423
+('NEURON', 'Learning') : -0.20342275245385377
+('NEURON', 'Neymotin, Sam [Samuel.Neymotin at nki.rfmh.org]') : 0.5332719254172946
+('NEURON', 'Allen Institute (2015)') : 0.5808909730363423
+('Olfactory bulb main mitral GLU cell', 'Olfactory bulb main interneuron granule MC GABA cell') : 0.7931266553775346
+('Olfactory bulb main mitral GLU cell', 'Olfactory bulb') : 0.654782428798014
+('I L high threshold', 'I T low threshold') : 0.5629482247136591
+('I L high threshold', 'I N') : 0.6127933950263151
+('I L high threshold', 'I A, slow') : 0.5625569884069298
+('I L high threshold', 'Neocortex layer 4 pyramidal cell') : 0.6829273587773002
+('I L high threshold', 'Allen Institute (2015)') : 0.8681125439624854
+('I L high threshold', 'Neocortex layer 5 interneuron') : 0.5953852712352127
+('I A', 'I L high threshold') : 0.5088836785202553
+('I A', 'Migliore, Michele [Michele.Migliore at Yale.edu]') : 0.5401968098333867
+('I A', 'I A, slow') : 0.6449947896313664
+('I A', 'I_KD') : 0.5177725674091442
+('I A', 'I R') : 0.639877830567039
+('I A', 'Neocortex layer 4 pyramidal cell') : 0.5755503451869219
+('I A', 'Allen Institute (2015)') : 0.7977725674091443
+('I A', 'Neocortex layer 5 interneuron') : 0.570499840136417
+('I K,leak', 'I Na, leak') : 0.6057816029508478
+('I K,Ca', 'I T low threshold') : 0.5172382477750441
+('I K,Ca', 'I L high threshold') : 0.5596795623290348
+('I K,Ca', 'I M') : 0.5294308061101293
+('I K,Ca', 'I A, slow') : 0.6602351178845903
+('I K,Ca', 'I p,q') : 0.6796795623290348
+('I K,Ca', 'Cav1.2 CACNA1C') : 0.5987271813766538
+('I K,Ca', 'I R') : 0.6551181588202628
+('I K,Ca', 'Neocortex layer 4 pyramidal cell') : 0.6278277104771829
+('I K,Ca', 'Allen Institute (2015)') : 0.8130128956623681
+('I K,Ca', 'Neocortex layer 5 interneuron') : 0.5857401683896408
+('Olfaction', 'Olfactory bulb main mitral GLU cell') : 0.9043281264852191
+('Olfaction', 'Olfactory bulb main interneuron granule MC GABA cell') : 0.8843081064651991
+('Olfaction', 'Olfactory bulb') : 0.8407351217157437
+('Neocortex L5/6 pyramidal GLU cell', 'Neocortex V1 interneuron basket PV GABA cell') : 0.7561202675677539
+('Neocortex L2/3 pyramidal GLU cell', 'Neocortex spiny stellate cell') : 0.6071995034825185
+('Neocortex L2/3 pyramidal GLU cell', 'Neocortex V1 interneuron basket PV GABA cell') : 0.7248465623060478
+('I M', 'Neocortex layer 4 pyramidal cell') : 0.7340323911250054
+('I M', 'Allen Institute (2015)') : 0.8821805392731535
+('I M', 'Neocortex layer 5 interneuron') : 0.6094532665458808
+('Activity Patterns', 'Sleep') : 0.5560207670406967
+('Active Dendrites', 'Dendritic Action Potentials') : 0.6866502270552883
+('Olfactory bulb main interneuron granule MC GABA cell', 'Olfactory bulb main mitral GLU cell') : 0.5787680998700929
+('Olfactory bulb main interneuron granule MC GABA cell', 'Olfactory bulb') : 0.6018205640990277
+('GabaA', 'Gaba') : 0.5233245408362642
+('GabaA', 'Thalamus reticular nucleus GABA cell') : 0.5811949112066346
+('GabaA', 'GabaB') : 0.8108245408362642
+('GabaA', 'Dentate gyrus basket cell') : 0.6774912075029309
+('GabaA', 'Neocortex spiking low threshold (LTS) neuron') : 0.5774912075029308
+('GabaA', 'Neocortex fast spiking (FS) interneuron') : 0.5274912075029309
+('GabaA', 'Neymotin, Sam [Samuel.Neymotin at nki.rfmh.org]') : 0.5441578741695975
+('GabaA', 'Neocortex V1 interneuron basket PV GABA cell') : 0.5245500310323427
+('GabaA', 'Hippocampus CA1 basket cell') : 0.642197089855872
+('AMPA', 'GabaA') : 0.5900817267510672
+('AMPA', 'NMDA') : 0.6219866179986383
+('AMPA', 'Gaba') : 0.5482498743928991
+('AMPA', 'Thalamus reticular nucleus GABA cell') : 0.5090964352394599
+('AMPA', 'GabaB') : 0.6498371759802006
+('AMPA', 'Neocortex spiking low threshold (LTS) neuron') : 0.5053927315357561
+('AMPA', 'Neocortex fast spiking (FS) interneuron') : 0.5303927315357562
+('AMPA', 'Neocortex V1 interneuron basket PV GABA cell') : 0.5700986138886973
+('NMDA', 'GabaB') : 0.5102123225218185
+('NMDA', 'I R') : 0.5499784043931635
+('Realistic Network', 'Neocortex spiny stellate cell') : 0.5015171367491897
+('Realistic Network', 'Olfactory bulb main interneuron granule MC GABA cell') : 0.5516260692110633
+('Realistic Network', 'Synchronization') : 0.5341085516935458
+('Realistic Network', 'Thalamus reticular nucleus GABA cell') : 0.5516260692110633
+('Realistic Network', 'Neocortex spiking regular (RS) neuron') : 0.5110048027833454
+('Realistic Network', 'Neocortex spiking low threshold (LTS) neuron') : 0.6034779210629153
+('Realistic Network', 'Lytton, William [bill.lytton at downstate.edu]') : 0.5060420236270178
+('Realistic Network', 'NEST') : 0.5603406661609545
+('Realistic Network', 'Neocortex fast spiking (FS) interneuron') : 0.5868112543962485
+('Realistic Network', 'Neocortex V1 interneuron basket PV GABA cell') : 0.6779877249844839
+('Realistic Network', 'Hippocampus CA1 basket cell') : 0.5015171367491897
+('Oscillations', 'Sleep') : 0.5829844247194775
+('Olfactory bulb', 'Olfactory bulb main mitral GLU cell') : 0.601691961598175
+('Olfactory bulb', 'Olfactory bulb main interneuron granule MC GABA cell') : 0.7578481177543311
+('Gaba', 'Glutamate') : 0.502242029732553
+('Glutamate', 'Gaba') : 0.6722718835482611
+('Glutamate', 'Glutamate') : 0.5416629091892866
+('Hippocampus CA1 pyramidal GLU cell', 'Hippocampus CA1 basket cell') : 0.8014619681401283
+('I h', 'I M') : 0.5092590972453093
+('I h', 'I A, slow') : 0.591555946333203
+('I h', 'HCN1') : 0.5118775837601037
+('I h', 'Neocortex layer 4 pyramidal cell') : 0.679518909296166
+('I h', 'Allen Institute (2015)') : 0.8276670574443141
+('I h', 'Neocortex layer 5 interneuron') : 0.5549397847170414
+('Synapse', 'Depression') : 0.5111929883324959
+('Synaptic Plasticity', 'Depression') : 0.5475353095517222
+('Synaptic Plasticity', 'Long-term Synaptic Plasticity') : 0.5461347493276326
+('Vision', 'Neocortex layer 4 pyramidal cell') : 0.6480178889323086
+('Vision', 'Allen Institute (2015)') : 0.8830896954326866
+('Thalamus reticular nucleus GABA cell', 'Thalamus geniculate nucleus/lateral principal GLU cell') : 0.5091735052754983
+('Thalamus', 'Thalamus geniculate nucleus/lateral principal GLU cell') : 0.57010550996483
+('Thalamus', 'Thalamus reticular nucleus GABA cell') : 0.7849203247796448
+('Dentate gyrus granule GLU cell', 'Dentate gyrus basket cell') : 0.7134036733098866
+('Dentate gyrus granule GLU cell', 'Dentate gyrus') : 0.7169124452397112
+('Axon', 'Axonal Action Potentials') : 0.5486739366055431
+('Invertebrate', 'SNNAP') : 0.7888734946179261
+('Extracellular', 'Extracellular Fields') : 0.5312772417110049
+('Action Potentials', 'Cardiac ventricular cell') : 0.6395808909730363
+('I Na,p', 'Neocortex layer 4 pyramidal cell') : 0.6699231470626547
+('Neocortex spiking regular (RS) neuron', 'Neocortex spiking low threshold (LTS) neuron') : 0.9151621727237202
+('Neocortex spiking regular (RS) neuron', 'Neocortex fast spiking (FS) interneuron') : 0.6318288393903869
+('Neocortex spiking low threshold (LTS) neuron', 'Neocortex spiking regular (RS) neuron') : 0.8856408123132776
+('Neocortex spiking low threshold (LTS) neuron', 'Neocortex fast spiking (FS) interneuron') : 0.6574150058616648
+('Na/K pump', 'Na/Ca exchanger') : 0.5921746776084408
+('Na/K pump', 'Electrogenic pump') : 0.7449524553862186
+('Na/K pump', 'Sodium pump') : 0.9145430986610723
+('Electrogenic pump', 'Sodium pump') : 0.6736595298327883
+('Sodium pump', 'Electrogenic pump') : 0.7110850592679432
+('Hippocampus', 'Place cell/field') : 0.5358119801261654
+('Hippocampus', 'Hippocampus CA1 basket cell') : 0.6226467140197228
+('D1', 'D2') : 0.9119397601226441
+('D2', 'D1') : 0.6239587832418091
+('Dopamine', 'D1') : 0.8630838526562596
+('Dopamine', 'D2') : 0.8145008567048426
+('Dopamine', 'Dopaminergic Receptor') : 0.850699951727467
+('Signaling pathways', 'IP3') : 0.5254161781946073
+('XPP', 'Wu, Sheng-Nan [snwu at mail.ncku.edu.tw]') : 0.842944021101993
+('Audition', 'Auditory nerve') : 0.6104769544024187
+('Neostriatum medium spiny direct pathway GABA cell', 'D1') : 0.6139939532300858
+('Cav1.3 CACNA1D', 'Cav1.2 CACNA1C') : 0.9894490035169988
+('Neocortex fast spiking (FS) interneuron', 'Neocortex spiking regular (RS) neuron') : 0.8152630185682411
+('Neocortex fast spiking (FS) interneuron', 'Neocortex spiking low threshold (LTS) neuron') : 0.8765533411488863
+('Neocortex fast spiking (FS) interneuron', 'Neymotin, Sam [Samuel.Neymotin at nki.rfmh.org]') : 0.5003628649584101
+('Neocortex fast spiking (FS) interneuron', 'Neocortex V1 interneuron basket PV GABA cell') : 0.6824356940900628
+('Neocortex', 'Vision') : 0.508483988400074
+('Neocortex', 'Neocortex spiking regular (RS) neuron') : 0.5543243958703626
+('Neocortex', 'Neocortex spiking low threshold (LTS) neuron') : 0.576905041031653
+('Neocortex', 'Neocortex fast spiking (FS) interneuron') : 0.501905041031653
+('Neocortex', 'Neocortex layer 4 pyramidal cell') : 0.8028309669575789
+('Neocortex', 'Allen Institute (2015)') : 0.876905041031653
+('Neocortex', 'Neocortex layer 5 interneuron') : 0.8314504955771076
+('Neocortex', 'Neocortex layer 2-3 interneuron') : 0.8054764696030816
+('Cerebellum', 'Cerebellum Purkinje GABA cell') : 0.5653436052029253
+('Cerebellum', 'Cerebellum interneuron granule GLU cell') : 0.5812166210759412
+("Parkinson's", 'Subthalamus nucleus projection neuron') : 0.8016803438843298
+("Parkinson's", 'Globus pallidus neuron') : 0.6766803438843298
+("Parkinson's", 'Deep brain stimulation') : 0.6580021829647896
+('Basal ganglia', "Parkinson's") : 0.5389040857974035
+('Basal ganglia', 'Subthalamus nucleus projection neuron') : 0.6870522339455516
+('Basal ganglia', 'Globus pallidus neuron') : 0.631496678389996
+('Basal ganglia', 'Deep brain stimulation') : 0.5165541496543639
+('Cav1.2 CACNA1C', 'Cav1.3 CACNA1D') : 0.769571447179888
+('Python', 'Brian') : 0.7182214034500083
+('Python', 'Neocortex layer 4 pyramidal cell') : 0.5277452129738178
+('Python', 'Allen Institute (2015)') : 0.8610785463071512
+('Python', 'Neocortex layer 5 interneuron') : 0.542896728125333
+('Globus pallidus neuron', 'Subthalamus nucleus projection neuron') : 0.6525986713559984
+('Deep brain stimulation', 'Subthalamus nucleus projection neuron') : 0.6496678389996092
+('Glia', 'Astrocyte') : 0.7484229330653714
+('Astrocyte', 'Glia') : 0.6833426780162087
+('Python (web link to model)', 'Brian (web link to method)') : 0.9695193434935522
+('Entorhinal cortex', 'Grid cell') : 0.676362837045721
+('Grid cell', 'Entorhinal cortex') : 0.5695687048806072
+('Allen Institute (2015)', 'Neocortex layer 4 pyramidal cell') : 0.6379445095740524
+('Allen Institute (2015)', 'Neocortex layer 5 interneuron') : 0.5167323883619311
